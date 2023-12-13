@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T18:58:17.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Z9lo4gO_cP_xh4k2ecRO" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T19:00:32.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LVQDTFYMyv20EPg32oaP" version="22.1.8" type="github">
   <diagram name="Page-1" id="rHtakyohWLInFAEIe9Pt">
     <mxGraphModel dx="2443" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-332.5" width="1360" height="530" as="geometry" />
+          <mxGeometry x="-340" y="10" width="1462.5" height="530" as="geometry" />
         </mxCell>
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-7" value="3V3&amp;nbsp; to 5V Power Input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="440" width="70" height="60" as="geometry" />
@@ -53,25 +53,28 @@
           <mxGeometry x="935" y="440" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-2" value="NXP i.MX8 M" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="242.77777777777777" y="179.13043478260872" width="204.44444444444443" height="180.8695652173913" as="geometry" />
+          <mxGeometry x="272.77777777777777" y="179.13043478260872" width="204.44444444444443" height="180.8695652173913" as="geometry" />
         </mxCell>
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-3" value="4GB DDR4" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="536.6666666666666" y="227.82608695652175" width="153.33333333333334" height="83.4782608695652" as="geometry" />
+          <mxGeometry x="566.6666666666666" y="227.82608695652175" width="153.33333333333334" height="83.4782608695652" as="geometry" />
         </mxCell>
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-4" value="8 GB eMMC" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry y="179.13043478260872" width="153.33333333333334" height="83.4782608695652" as="geometry" />
+          <mxGeometry x="30" y="179.13043478260872" width="153.33333333333334" height="83.4782608695652" as="geometry" />
         </mxCell>
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-5" value="16 MB SPI NOR Flash" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry y="276.52173913043475" width="153.33333333333334" height="83.4782608695652" as="geometry" />
+          <mxGeometry x="30" y="276.52173913043475" width="153.33333333333334" height="83.4782608695652" as="geometry" />
         </mxCell>
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-6" value="WiFi and Bluetooth Module" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="536.6666666666666" y="40" width="153.33333333333334" height="83.4782608695652" as="geometry" />
+          <mxGeometry x="566.6666666666666" y="40" width="153.33333333333334" height="83.4782608695652" as="geometry" />
         </mxCell>
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-17" value="POLs" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry y="40" width="153.33333333333334" height="83.4782608695652" as="geometry" />
+          <mxGeometry x="30" y="40" width="153.33333333333334" height="83.4782608695652" as="geometry" />
         </mxCell>
         <mxCell id="WBh8jxrWPHJP9RiaWdIm-18" value="Status LEDs" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="268.3333333333333" y="40" width="153.33333333333334" height="83.4782608695652" as="geometry" />
+          <mxGeometry x="298.3333333333333" y="40" width="153.33333333333334" height="83.4782608695652" as="geometry" />
+        </mxCell>
+        <mxCell id="WBh8jxrWPHJP9RiaWdIm-33" value="Audio In/Out" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="440" width="65" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
